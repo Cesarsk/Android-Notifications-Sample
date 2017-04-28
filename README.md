@@ -13,7 +13,7 @@ MinSDK: 21
 If you like the project, star it. :)
 
 # Screenshots
-<img src="https://github.com/Cesarsk/AndroidNotifications/blob/master/screenshots/screen1.png" width="40%" /> <img src="https://github.com/Cesarsk/AndroidNotifications/blob/master/screenshots/screen2.png" width="40%" />
+<img src="https://github.com/Cesarsk/Android-Notifications-Sample/blob/master/screenshots/screen1.png" width="40%" /> <img src="https://github.com/Cesarsk/Android-Notifications-Sample/blob/master/screenshots/screen2.png" width="40%" />
 
 # License
 Licensed under Apache License, see License.md for further details.
